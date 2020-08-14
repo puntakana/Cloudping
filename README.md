@@ -14,7 +14,7 @@ optional arguments:
                         Clouder, can take value "gcp" / "aws" "azure"
 ```
 
-```
+```bash
 python3.7 cloudping.py --cloud aws
               Name              IP  Latency in ms
 1        eu-west-3    52.95.155.53         18.779
